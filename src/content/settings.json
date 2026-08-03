@@ -1,0 +1,26 @@
+{
+  "github": "PSingletary",
+  "camera": "",
+  "bio": "{pithy comment}\nhttps://bsky.app/profile/did:plc:stznz7qsokto2345qtdzogjb",
+  "showDates": true,
+  "mastodon": "",
+  "author": "PSingletary",
+  "logo": {
+    "type": "text",
+    "image": "",
+    "text": ""
+  },
+  "enableSocial": true,
+  "navStyle": "float",
+  "instagram": "",
+  "location": "",
+  "title": "🏴‍☠️",
+  "avatar": "/images/avatar.jpg",
+  "description": "A photography site on the Pirate Social network",
+  "cloudinary": {
+    "enabled": false,
+    "cloudName": "",
+    "apiKey": ""
+  },
+  "giphyKey": ""
+}
